@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+nltk
+spacy
+umap-learn
+plotly
+streamlit
+matplotlib
+joblib
+tqdm
+sqlalchemy

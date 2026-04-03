@@ -1,0 +1,266 @@
+{
+  "0": {
+    "count": 14329,
+    "keywords": [
+      "certificates",
+      "corruption issuing",
+      "corruption",
+      "issuing certificates",
+      "issuing",
+      "demanding",
+      "demanding bribe",
+      "officials demanding",
+      "bribe approval",
+      "approval",
+      "officials",
+      "bribe"
+    ],
+    "examples": [
+      "officials demanding bribe approval issue repeatedly",
+      "officials demanding bribe approval please resolve soon",
+      "corruption issuing certificates please resolve soon"
+    ]
+  },
+  "1": {
+    "count": 32126,
+    "keywords": [
+      "buses",
+      "crowded",
+      "crowded buses",
+      "poor",
+      "condition",
+      "condition buses",
+      "poor condition",
+      "help",
+      "late",
+      "arrives",
+      "arrives late",
+      "bus"
+    ],
+    "examples": [
+      "unnecessary delay file processing urgent attention needed",
+      "unnecessary delay file processing please help",
+      "unnecessary delay file processing requested many times"
+    ]
+  },
+  "2": {
+    "count": 27232,
+    "keywords": [
+      "water",
+      "supply",
+      "water supply",
+      "morning",
+      "supply morning",
+      "tanker delayed",
+      "water tanker",
+      "tanker",
+      "delayed",
+      "water pressure",
+      "pressure low",
+      "pressure"
+    ],
+    "examples": [
+      "water supply since morning issue repeatedly",
+      "water supply since morning requested many times",
+      "water pressure low please resolve soon"
+    ]
+  },
+  "3": {
+    "count": 13601,
+    "keywords": [
+      "service",
+      "service disrupted",
+      "metro service",
+      "disrupted",
+      "metro",
+      "lights working",
+      "street lights",
+      "lights",
+      "working",
+      "street",
+      "help",
+      "requested times"
+    ],
+    "examples": [
+      "metro service disrupted please help",
+      "metro service disrupted application pending months situation getting worse",
+      "street lights working situation getting worse"
+    ]
+  },
+  "4": {
+    "count": 18931,
+    "keywords": [
+      "ambulance",
+      "ambulance responding",
+      "responding",
+      "pending",
+      "application pending",
+      "pending months",
+      "months",
+      "application",
+      "despite",
+      "despite reminders",
+      "response",
+      "response office"
+    ],
+    "examples": [
+      "application pending months requested many times",
+      "ambulance responding urgent attention needed",
+      "ambulance responding urgent attention needed"
+    ]
+  },
+  "5": {
+    "count": 13898,
+    "keywords": [
+      "electricity",
+      "hours",
+      "electricity outage",
+      "outage",
+      "outage hours",
+      "cuts locality",
+      "cuts",
+      "power",
+      "locality",
+      "frequent power",
+      "frequent",
+      "power cuts"
+    ],
+    "examples": [
+      "electricity outage hours urgent attention needed",
+      "electricity outage hours requested many times",
+      "electricity outage hours issue repeatedly"
+    ]
+  },
+  "6": {
+    "count": 32690,
+    "keywords": [
+      "street",
+      "potholes",
+      "potholes street",
+      "sewer overflowing",
+      "sewer",
+      "overflowing",
+      "help",
+      "damaged",
+      "footpath",
+      "heavily",
+      "footpath damaged",
+      "damaged heavily"
+    ],
+    "examples": [
+      "sewer overflowing situation getting worse",
+      "construction work incomplete issue repeatedly",
+      "footpath damaged heavily please resolve soon"
+    ]
+  },
+  "7": {
+    "count": 13038,
+    "keywords": [
+      "poor",
+      "cleanliness",
+      "ward",
+      "cleanliness ward",
+      "poor cleanliness",
+      "staff",
+      "staff cooperating",
+      "cooperating",
+      "hospital staff",
+      "hospital",
+      "help",
+      "requested"
+    ],
+    "examples": [
+      "hospital staff cooperating situation getting worse",
+      "hospital staff cooperating situation getting worse",
+      "hospital staff cooperating urgent attention needed"
+    ]
+  },
+  "8": {
+    "count": 6866,
+    "keywords": [
+      "working",
+      "transformer working",
+      "transformer",
+      "working help",
+      "help",
+      "requested",
+      "requested times",
+      "times",
+      "working requested",
+      "resolve",
+      "soon",
+      "resolve soon"
+    ],
+    "examples": [
+      "transformer working requested many times",
+      "transformer working situation getting worse",
+      "transformer working requested many times"
+    ]
+  },
+  "9": {
+    "count": 12378,
+    "keywords": [
+      "unavailable",
+      "medicines",
+      "medicines unavailable",
+      "overcharging",
+      "auto drivers",
+      "drivers overcharging",
+      "auto",
+      "drivers",
+      "help",
+      "resolve soon",
+      "resolve",
+      "soon"
+    ],
+    "examples": [
+      "auto drivers overcharging requested many times",
+      "medicines unavailable please resolve soon",
+      "auto drivers overcharging requested many times"
+    ]
+  },
+  "10": {
+    "count": 7518,
+    "keywords": [
+      "damaging devices",
+      "voltage",
+      "voltage fluctuations",
+      "devices",
+      "fluctuations",
+      "fluctuations damaging",
+      "damaging",
+      "devices help",
+      "help",
+      "issue repeatedly",
+      "issue",
+      "repeatedly"
+    ],
+    "examples": [
+      "voltage fluctuations damaging devices issue repeatedly",
+      "voltage fluctuations damaging devices crowded buses situation getting worse",
+      "voltage fluctuations damaging devices situation getting worse"
+    ]
+  },
+  "11": {
+    "count": 7393,
+    "keywords": [
+      "water",
+      "tap",
+      "water tap",
+      "contaminated water",
+      "contaminated",
+      "tap help",
+      "help",
+      "requested times",
+      "requested",
+      "times",
+      "tap requested",
+      "repeatedly"
+    ],
+    "examples": [
+      "contaminated water tap water pressure low urgent attention needed",
+      "contaminated water tap situation getting worse",
+      "contaminated water tap please resolve soon"
+    ]
+  }
+}
