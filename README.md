@@ -40,7 +40,7 @@ Dashboard: Streamlit
 
 Data Handling: Pandas, NumPy
 
-📁 Project Structure ├── synthetic_complaints.csv ├── large_pipeline_200k.py # ML pipeline (embeddings + clustering) ├── import_to_sqlite.py # Load clustered data into SQLite ├── streamlit_sql_app.py # Dashboard application ├── output/ │ ├── embeddings_memmap.npy │ ├── labels_kmeans_k12.npy │ ├── clustered_complaints_200k.csv │ ├── complaints.db │ ├── umap_sample.npy │ └── kmeans_topics_k12.json ├── requirements.txt └── README.md 🚀 How to Run the Project 1️⃣ Clone the Repository git clone https://github.com/your-username/public-complaint-clustering-dashboard.git cd public-complaint-clustering-dashboard 2️⃣ Install Dependencies pip install -r requirements.txt 3️⃣ Run the ML Pipeline python large_pipeline_200k.py This will:
+📁 Project Structure ├── synthetic_complaints.csv ├── large_pipeline_200k.py # ML pipeline (embeddings + clustering) ├── import_to_sqlite.py # Load clustered data into SQLite ├── streamlit_sql_app.py # Dashboard application ├── output/ │ ├── embeddings_memmap.npy │ ├── labels_kmeans_k12.npy │ ├── clustered_complaints_200k.csv │ ├── complaints.db │ ├── umap_sample.npy │ └── kmeans_topics_k12.json ├── requirements.txt └── README.md 🚀 How to Run the Project 1️⃣ Clone the Repository git clone https://github.com/harsh-kumar274/complaint_Clustering.git cd public-complaint-clustering-dashboard 2️⃣ Install Dependencies pip install -r requirements.txt 3️⃣ Run the ML Pipeline python large_pipeline_200k.py This will:
 
 Generate sentence embeddings
 
